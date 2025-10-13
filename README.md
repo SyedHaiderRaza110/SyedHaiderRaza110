@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Welcome-👋-FF5733?style=for-the-badge" alt="Welcome"/>
+  <img src="https://img.shields.io/badge/🚀%20Welcome%20to%20My%20GitHub-✨-FF5733?style=for-the-badge" alt="Welcome"/>
 </p>
 
 <h1 align="center">Syed Haider Raza</h1>
@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://github.com/SyedHaiderRaza110" title="GitHub Profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/syed-haider-raza110" title="LinkedIn Profile">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="mailto:haiderrazahr73@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" alt="Email"/>
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://haiderraza.dev" title="Personal Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
@@ -40,8 +40,8 @@
 ## ⚙️ Tools & Editors
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git Version Control" alt="Git" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub Repository Management" alt="GitHub" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" title="Git Version Control" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub Repository Management" alt="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="Visual Studio Code IDE" alt="VS Code" width="60" height="60"/>
 </p>
 
@@ -51,7 +51,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React JS" alt="React" width="60" height="60"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask Web Framework" alt="Flask" width="60" height="60"/>
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" title="Flask Web Framework" alt="Flask"/>
 </p>
 
 ---
@@ -68,15 +68,19 @@
 ## 📌 Featured Projects
 
 <p align="left">
-  <a href="https://github.com/SyedHaiderRaza110/Python-Calculator" title="A simple Python calculator project">
-    <img src="https://img.shields.io/badge/Python-Calculator-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Calculator"/>
+  <a href="https://github.com/SyedHaiderRaza110/Python-Calculator" title="Python Calculator: A simple calculator project in Python">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="60" height="60" alt="Python Calculator"/>
   </a>
-  <a href="https://github.com/SyedHaiderRaza110/Weather-App" title="React-based weather application fetching live data">
-    <img src="https://img.shields.io/badge/Weather-App-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Weather App"/>
+  <a href="https://github.com/SyedHaiderRaza110/Weather-App" title="Weather App: React-based weather application fetching live data">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" width="60" height="60" alt="Weather App"/>
   </a>
-  <a href="https://github.com/SyedHaiderRaza110/Personal-Website" title="Personal portfolio website">
-    <img src="https://img.shields.io/badge/Portfolio-Website-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Portfolio Website"/>
+  <a href="https://github.com/SyedHaiderRaza110/Personal-Website" title="Personal Portfolio Website: Built with JavaScript">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="60" height="60" alt="Portfolio Website"/>
   </a>
+</p>
+
+<p align="left">
+  <i>Hover over each logo to see the project description.</i>
 </p>
 
 ---
