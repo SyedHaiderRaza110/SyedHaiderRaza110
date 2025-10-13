@@ -1,4 +1,4 @@
-# Hi, I'm Haider Raza 👋
+# Hi, I'm Syed Haider Raza 👋
 
 🎓 Computer Science Enthusiast from Pakistan  
 🚀 Aspiring to study at **Harvard University**  
@@ -9,12 +9,12 @@
 ## 🖥️ Languages
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" alt="C" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" alt="C++" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" title="Python" alt="Python" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" title="C" alt="C" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" title="C++" alt="C++" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" title="HTML5" alt="HTML5" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" title="CSS3" alt="CSS3" width="50" height="50"/>
 </p>
 
 ---
@@ -22,9 +22,9 @@
 ## ⚙️ Tools & Editors
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" alt="Git" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" title="GitHub" alt="GitHub" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" alt="VS Code" width="50" height="50"/>
 </p>
 
 ---
@@ -32,8 +32,8 @@
 ## 🛠️ Frameworks & Libraries
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" title="React" alt="React" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" title="Flask" alt="Flask" width="50" height="50"/>
 </p>
 
 ---
@@ -41,8 +41,24 @@
 ## 🗄️ Databases
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" title="MySQL" alt="MySQL" width="50" height="50"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" title="MongoDB" alt="MongoDB" width="50" height="50"/>
+</p>
+
+---
+
+## 📌 Featured Projects
+
+<p align="left">
+  <a href="https://github.com/SyedHaiderRaza110/Python-Calculator">
+    <img src="https://img.shields.io/badge/Python-Calculator-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Calculator"/>
+  </a>
+  <a href="https://github.com/SyedHaiderRaza110/Weather-App">
+    <img src="https://img.shields.io/badge/Weather-App-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Weather App"/>
+  </a>
+  <a href="https://github.com/SyedHaiderRaza110/Personal-Website">
+    <img src="https://img.shields.io/badge/Portfolio-Website-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="Portfolio Website"/>
+  </a>
 </p>
 
 ---
@@ -53,7 +69,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHaiderRaza110&langs_count=10&layout=compact&theme=radical)
 
-<!-- Optional: Uncomment if you want streaks and trophies -->
+<!-- Optional -->
 <!--
 ![GitHub Streak](https://streak-stats.demolab.com?user=SyedHaiderRaza110&theme=radical)
 ![Trophy Achievements](https://github-profile-trophy.vercel.app/?username=SyedHaiderRaza110&theme=radical)
