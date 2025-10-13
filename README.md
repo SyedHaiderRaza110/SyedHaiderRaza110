@@ -9,16 +9,16 @@
 
 <p align="center">
   <a href="https://github.com/SyedHaiderRaza110" title="GitHub Profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="50" height="50" alt="GitHub"/>
+    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
   </a>
   <a href="https://www.linkedin.com/in/syed-haider-raza110" title="LinkedIn Profile">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
   </a>
   <a href="mailto:haiderrazahr73@gmail.com" title="Email">
-    <img src="https://cdn.jsdelivr.net/gh/simple-icons/simple-icons/icons/gmail.svg" width="50" height="50" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-EB4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
   <a href="https://haiderraza.dev" title="Website">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/google/google-original.svg" width="50" height="50" alt="Website"/>
+    <img src="https://img.shields.io/badge/Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
   </a>
 </p>
 
@@ -41,7 +41,7 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="60" height="60"/>
 </p>
 
@@ -79,6 +79,8 @@
   </a>
 </p>
 
+
+
 ---
 
 ## 📈 GitHub Stats
@@ -110,10 +112,10 @@
 
 ## 📬 Let's Connect
 
-- Email: haiderrazahr73@gmail.com  
-- Website: [haiderraza.dev](https://haiderraza.dev)  
-- LinkedIn: [Syed Haider Raza](https://www.linkedin.com/in/syed-haider-raza110)
+- 📧 **Email:** [haiderrazahr73@gmail.com](mailto:haiderrazahr73@gmail.com)  
+- 🌐 **Website:** [haiderraza.dev](https://haiderraza.dev)  
+- 💼 **LinkedIn:** [Syed Haider Raza](https://www.linkedin.com/in/syed-haider-raza110)
 
 ---
 
-> "The only way to do great work is to love what you do." – Steve Jobs
+> “The only way to do great work is to love what you do.” – *Steve Jobs*
