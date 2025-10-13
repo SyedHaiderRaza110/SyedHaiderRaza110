@@ -2,16 +2,17 @@
 
 🎓 **Computer Science Enthusiast** from Pakistan  
 🚀 Aspiring to study at **Harvard University**  
-💡 Passionate about **technology**, **open-source**, and **continuous learning**
+💡 Passionate about **technology**, **open-source**, **app development**, and **continuous learning**
 
 ---
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: Python, C , C++, JavaScript, HTML, CSS  
-- **Tools**: Git, GitHub, VS Code  
-- **Frameworks**: React, Flask  
-- **Databases**: MySQL, MongoDB
+- **Languages**: Python, C, C++, JavaScript, HTML, CSS  
+- **Tools & Other**: Git, GitHub, VS Code, Web Development with React  
+- **Frameworks**: Flask  
+- **Databases**: MySQL, MongoDB  
+- **App Development**: Beginner-level mobile apps  
 
 ---
 
@@ -24,16 +25,16 @@
 ## 🌱 Currently Learning
 
 - 📘 Advanced Python Programming  
-- 🌐 Web Development with React  
-- 📊 Data Structures & Algorithms
+- 📊 Data Structures & Algorithms  
+- 🌐 App Development & Web Development  
 
 ---
 
 ## 📬 Let's Connect
 
 - 📧 Email: haider@example.com  
-- 🌐 Portfolio: [haiderraza.dev](https://haiderraza.dev)  
-- 🐦 Twitter: [@haiderraza](https://twitter.com/haiderraza)
+- 🌐 Website: [haiderraza.dev](https://haiderraza.dev)  
+- 🔗 LinkedIn: [Haider Raza](https://linkedin.com/in/haiderraza)
 
 ---
 
