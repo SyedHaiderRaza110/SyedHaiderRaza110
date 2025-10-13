@@ -24,7 +24,7 @@
 
   <!-- Website (blue globe PNG hosted on Wikimedia Commons) -->
   <a href="https://haiderraza.dev" title="Personal Website">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Globe_icon_blue_2.png/600px-Globe_icon_blue_2.png" width="56" height="56" alt="Website"/>
+    <img src="[https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Globe_icon_blue_2.png/600px-Globe_icon_blue_2.png](https://upload.wikimedia.org/wikipedia/commons/9/97/The_Earth.svg)" width="56" height="56" alt="Website"/>
   </a>
 </p>
 
