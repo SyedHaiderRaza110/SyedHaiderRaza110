@@ -2,7 +2,7 @@
 
 🎓 **Computer Science Enthusiast** from Pakistan  
 🚀 Aspiring to study at **Harvard University**  
-💡 Passionate about **technology**, **open-source**, **app development**, and **continuous learning**
+💡 Passionate about **technology**, **open-source**, **app development**, **Mathematics**, and **making a real-world impact through innovation**
 
 ---
 
@@ -24,9 +24,19 @@
 
 ## 🌱 Currently Learning
 
-- 📘 Advanced Python Programming  
+- 📘 Python Programming  
 - 📊 Data Structures & Algorithms  
 - 🌐 App Development & Web Development  
+
+---
+
+## 🏆 Certificates
+
+- 🎖️ Google IT Support (Example)  
+- 🎖️ Python Programming Certificate (Example)  
+- 🎖️ Any other relevant certificates  
+
+> *(You can replace examples with your actual certificates.)*
 
 ---
 
