@@ -10,8 +10,8 @@
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/SyedHaiderRaza110" title="GitHub Profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
-         style="background-color:white; border-radius:50%; padding:8px;" width="55" height="55" alt="GitHub Logo"/>
+    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/github.svg"
+         width="56" height="56" alt="GitHub Logo"/>
   </a>
 
   <!-- LinkedIn -->
@@ -20,18 +20,13 @@
          width="50" height="50" alt="LinkedIn"/>
   </a>
 
-  <!-- Gmail -->
-  <a href="mailto:haiderrazahr73@gmail.com" title="Email">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" 
-         width="52" height="52" alt="Gmail"/>
-  </a>
-
   <!-- Website -->
   <a href="https://haiderraza.dev" title="Personal Website">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Globe_icon_blue.svg" 
-         width="54" height="54" alt="Website Globe"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Globe_icon.svg"
+         width="55" height="55" alt="Website Globe"/>
   </a>
 </p>
+
 
 ---
 
