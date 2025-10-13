@@ -1,4 +1,4 @@
-# Hi, I'm Haider Raza 👋
+# Hi, I'm Syed Haider Raza 👋
 
 🎓 Computer Science Enthusiast from Pakistan  
 🚀 Aspiring to study at **Harvard University**  
@@ -74,9 +74,9 @@
 
 ## 📬 Let's Connect
 
-- Email: haider@example.com  
+- Email: haiderrazahr73@gmail.com
 - Website: [haiderraza.dev](https://haiderraza.dev)  
-- LinkedIn: [Haider Raza](https://linkedin.com/in/haiderraza)
+- LinkedIn: [Syed Haider Raza](www.linkedin.com/in/haider-raza-30a505387)
 
 ---
 
