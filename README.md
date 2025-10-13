@@ -76,7 +76,7 @@
 
 - Email: haiderrazahr73@gmail.com
 - Website: [haiderraza.dev](https://haiderraza.dev)  
-- LinkedIn: [Syed Haider Raza](www.linkedin.com/in/haider-raza-30a505387)
+- LinkedIn: [Syed Haider Raza]([www.linkedin.com/in/haider-raza-30a505387](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BDnGPm6KgQ9GrmXgPVvtWEQ%3D%3D))
 
 ---
 
