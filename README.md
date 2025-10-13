@@ -79,10 +79,6 @@
   </a>
 </p>
 
-<p align="left">
-  <i>Hover over each logo to see the project description.</i>
-</p>
-
 ---
 
 ## 📈 GitHub Stats
