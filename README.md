@@ -10,8 +10,9 @@
 <p align="center">
   <!-- GitHub -->
   <a href="https://github.com/SyedHaiderRaza110" title="GitHub Profile">
-    <img src="https://raw.githubusercontent.com/dheereshagrwal/colored-icons/master/github.svg"
-         width="56" height="56" alt="GitHub Logo"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg"
+         width="55" height="55" alt="GitHub Logo"
+         style="background:white; border-radius:50%; padding:6px;"/>
   </a>
 
   <!-- LinkedIn -->
@@ -20,12 +21,16 @@
          width="50" height="50" alt="LinkedIn"/>
   </a>
 
-  <!-- Website -->
+
+  <!-- Website (blue globe PNG hosted on Wikimedia Commons) -->
   <a href="https://haiderraza.dev" title="Personal Website">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/9/97/Globe_icon.svg"
-         width="55" height="55" alt="Website Globe"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/1/12/Globe_icon_blue_2.png/600px-Globe_icon_blue_2.png" width="56" height="56" alt="Website"/>
   </a>
 </p>
+
+
+
+
 
 
 ---
@@ -47,7 +52,8 @@
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" title="Git" width="60" height="60"/>
-  <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" title="GitHub"/>
+   <img src="https://upload.wikimedia.org/wikipedia/commons/a/ae/Github-desktop-logo-symbol.svg" width="60" height="60" alt="GitHub Logo"
+         style="background:white; border-radius:50%; padding:6px;"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" title="VS Code" width="60" height="60"/>
 </p>
 
