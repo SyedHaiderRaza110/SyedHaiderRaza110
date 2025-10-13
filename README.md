@@ -8,7 +8,7 @@
 
 ## 🔧 Tech Stack & Tools
 
-- **Languages**: Python, JavaScript, HTML, CSS  
+- **Languages**: Python, C , C++, JavaScript, HTML, CSS  
 - **Tools**: Git, GitHub, VS Code  
 - **Frameworks**: React, Flask  
 - **Databases**: MySQL, MongoDB
