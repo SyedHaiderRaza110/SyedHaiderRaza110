@@ -8,17 +8,28 @@
 </p>
 
 <p align="center">
+  <!-- GitHub -->
   <a href="https://github.com/SyedHaiderRaza110" title="GitHub Profile">
-    <img src="https://img.shields.io/badge/GitHub-24292F?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" 
+         style="background-color:white; border-radius:50%; padding:8px;" width="55" height="55" alt="GitHub Logo"/>
   </a>
+
+  <!-- LinkedIn -->
   <a href="https://www.linkedin.com/in/syed-haider-raza110" title="LinkedIn Profile">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" width="50" height="50" alt="LinkedIn"/>
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" 
+         width="50" height="50" alt="LinkedIn"/>
   </a>
+
+  <!-- Gmail -->
   <a href="mailto:haiderrazahr73@gmail.com" title="Email">
-    <img src="https://img.shields.io/badge/Gmail-EB4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.svg" 
+         width="52" height="52" alt="Gmail"/>
   </a>
-  <a href="https://haiderraza.dev" title="Website">
-    <img src="https://img.shields.io/badge/Website-34A853?style=for-the-badge&logo=google-chrome&logoColor=white" alt="Website"/>
+
+  <!-- Website -->
+  <a href="https://haiderraza.dev" title="Personal Website">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/e/e3/Globe_icon_blue.svg" 
+         width="54" height="54" alt="Website Globe"/>
   </a>
 </p>
 
