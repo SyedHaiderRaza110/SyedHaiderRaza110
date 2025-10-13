@@ -1,8 +1,8 @@
-# Hi, I'm Syed Haider Raza 👋
+# Hi, I'm Haider Raza 👋
 
 🎓 Computer Science Enthusiast from Pakistan  
 🚀 Aspiring to study at **Harvard University**  
-💡 Passionate about **technology, app development, Mathematics, and making a real-world impact**
+💡 Passionate about **technology, app development, Mathematics**, and **making a real-world impact through innovation**
 
 ---
 
@@ -49,7 +49,15 @@
 
 ## 📈 GitHub Stats
 
-![Haider's GitHub Stats](https://github-readme-stats.vercel.app/api?username=haiderraza&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+![Haider's GitHub Stats](https://github-readme-stats.vercel.app/api?username=SyedHaiderRaza110&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=SyedHaiderRaza110&langs_count=10&layout=compact&theme=radical)
+
+<!-- Optional: Uncomment if you want streaks and trophies -->
+<!--
+![GitHub Streak](https://streak-stats.demolab.com?user=SyedHaiderRaza110&theme=radical)
+![Trophy Achievements](https://github-profile-trophy.vercel.app/?username=SyedHaiderRaza110&theme=radical)
+-->
 
 ---
 
@@ -74,9 +82,9 @@
 
 ## 📬 Let's Connect
 
-- Email: haiderrazahr73@gmail.com
+- Email: haider@example.com  
 - Website: [haiderraza.dev](https://haiderraza.dev)  
-- LinkedIn: [Syed Haider Raza]([www.linkedin.com/in/haider-raza-30a505387](https://www.linkedin.com/public-profile/settings?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_self_edit_contact-info%3BDnGPm6KgQ9GrmXgPVvtWEQ%3D%3D))
+- LinkedIn: [Haider Raza](https://linkedin.com/in/haiderraza)
 
 ---
 
