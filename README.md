@@ -6,7 +6,7 @@
 
 ---
 
-## 🔧 Tech Stack & Tools
+## 🖥️ Languages
 
 <p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" alt="Python" width="50" height="50"/>
@@ -15,11 +15,32 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="50" height="50"/>
+</p>
+
+---
+
+## ⚙️ Tools & Editors
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" alt="Git" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="50" height="50"/>
+</p>
+
+---
+
+## 🛠️ Frameworks & Libraries
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" alt="Flask" width="50" height="50"/>
+</p>
+
+---
+
+## 🗄️ Databases
+
+<p align="left">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" alt="MySQL" width="50" height="50"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="50" height="50"/>
 </p>
@@ -42,11 +63,12 @@
 
 ## 🏆 Certificates
 
-*(Replace with actual certificates)*  
 <p>
-  <img src="https://img.shields.io/badge/Python-Certificate-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python Certificate"/>
+  <img src="https://img.shields.io/badge/Python-Certificate-3670A0?style=for-the-badge&logo=python&logoColor=white" alt="Python Certificate"/>
   <img src="https://img.shields.io/badge/App-Development-Certificate-F7DF1E?style=for-the-badge&logo=appveyor&logoColor=white" alt="App Dev Certificate"/>
 </p>
+
+*(Replace with your actual certificates)*
 
 ---
 
