@@ -4,7 +4,7 @@
 
 <h1 align="center">Syed Haider Raza</h1>
 <p align="center">
-  🎓 Computer Science Enthusiast | 🚀 Aspiring Harvard Student | 💡 Passionate About Tech & Math
+  🎓 Computer Science Enthusiast | 🚀 Future Innovator in Tech & Research | 💡 Passionate About Tech & Math
 </p>
 
 <p align="center">
