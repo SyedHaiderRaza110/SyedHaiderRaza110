@@ -127,6 +127,7 @@
 - 📧 **Email:** [haiderrazahr73@gmail.com](mailto:haiderrazahr73@gmail.com)  
 - 🌐 **Website:** [haiderraza.dev](https://haiderraza.dev)  
 - 💼 **LinkedIn:** [Syed Haider Raza](https://www.linkedin.com/in/syedhaiderraza-shr)
+- 🔎 **ORCID:** [Syed Haider Raza](https://orcid.org/0009-0002-6241-8720)
 
 ---
 
